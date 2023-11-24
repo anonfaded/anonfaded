@@ -4,7 +4,7 @@ Coding for Creativity, Hacking for Security 🛡️
 
 📍 *Somewhere between 0's and 1's*
 
-[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/anonfaded/anonfaded/edit/main/README.md#-contact)
+[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/anonfaded/#-contact)
 ![Profile Views](https://komarev.com/ghpvc/?username=anonfaded)
 
 
