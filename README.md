@@ -13,7 +13,9 @@ Coding for Creativity, Hacking for Security 🛡️
 
 ![GitHub](https://github-readme-stats.vercel.app/api?username=anonfaded&show_icons=true&theme=radical)
 
+### TryHackMe
 ![TryHackMe](/images/ss.png)
+
 
 ## Top Languages
 
@@ -21,9 +23,9 @@ Coding for Creativity, Hacking for Security 🛡️
 
 ## 📧 Contact
 
-[anonfaded@duck.com](mailto:anonfaded@duck.com) 
-
 [![Twitter Follow](https://img.shields.io/twitter/follow/anon_faded?style=social)](https://x.com/anon_faded)
+
+[anonfaded@duck.com](mailto:anonfaded@duck.com) 
 
 
 
