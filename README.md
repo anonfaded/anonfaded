@@ -1,9 +1,5 @@
 **Faded Here👋** 
 
-Coding for Creativity, Hacking for Security 🛡️
-
-📍 *Somewhere between 0's and 1's*
-
 [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/anonfaded/#-contact)
 ![Profile Views](https://komarev.com/ghpvc/?username=anonfaded)
 
@@ -23,9 +19,9 @@ Coding for Creativity, Hacking for Security 🛡️
 
 ## 📧 Contact
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/anon_faded?style=social)](https://x.com/anon_faded)
+[![Twitter Follow](https://img.shields.io/twitter/follow/🥷🏻?style=social)](https://x.com/anon_faded)
 
-[anonfaded@duck.com](mailto:anonfaded@duck.com) 
+[![Email Me](https://img.shields.io/badge/Email-Me-red?style=social&logo=protonmail)](mailto:anonfaded@duck.com)
 
 
 
