@@ -1,5 +1,6 @@
 # <p> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></p> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=43&duration=1700&pause=2500&color=F7103D&random=false&width=900&height=150&lines=Faded+Here!;Front-End+Developer+%26+Ethical+Hacker+%F0%9F%A5%B7;Coding+for+creativity%2C+hacking+for+security+%F0%9F%9B%A1%EF%B8%8F;%F0%9F%93%8DSomewhere+between+0's+and+1's.)](https://git.io/typing-svg)
 
+- TryHackMe top 15%
 
 [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/red?icon=github)](https://github.com/anonfaded/#-contact)
 ![Profile Views](https://komarev.com/ghpvc/?username=anonfaded)
