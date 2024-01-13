@@ -136,7 +136,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/🥷🏻?style=social)](https://x.com/anon_faded)
 
-[![Email Me](https://img.shields.io/badge/Email-Me-red?style=social&logo=protonmail)](mailto:anonfaded@duck.com)
+[![Email Me](https://img.shields.io/badge/Email-Me-red?style=social&logo=protonmail)](mailto:axonxx@proton.me)
 
 
 
