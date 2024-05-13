@@ -139,7 +139,9 @@
 
 [![Email Me](https://img.shields.io/badge/Email-Me-red?style=social&logo=protonmail)](mailto:axonxx@proton.me)
 
-
+<p align="center">
+        <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
 
 
 
