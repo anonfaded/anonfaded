@@ -17,7 +17,7 @@
 </div>
 
 > [!NOTE]
-> 📦 **Total Projects:** 30+  
+> 📦 **Total Projects:** 24+  
 > 🌍 **User Base:** 70,000+ users across 22+ countries  
 > 💻 **Platforms:** Android, Windows, Linux, macOS, Web  
 > 🧪 **Tech Stack:** Java, Kotlin, Python, Flutter, Shell, Bash, Appium, Firebase, C#, Ducky Script, Hugo, HTML/CSS/JavaScript
@@ -89,7 +89,7 @@ These projects are experimental, early-stage, or niche utilities. Though less po
 
 ---
 
-If you'd like to collaborate or have feedback, feel free to [reach out here](https://github.com/anonfaded/#-contact).
+If you want to reach out, check the [Contact](https://github.com/anonfaded/#-contact) section.
 
 ---
 
