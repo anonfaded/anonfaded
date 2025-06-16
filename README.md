@@ -19,7 +19,7 @@
 <p>
   📦 <strong>Total Projects:</strong> 30+<br>
   💻 <strong>Platforms:</strong> Android, Windows, Linux, macOS, Web<br>
-  🧪 <strong>Tech Stack:</strong> Java, Kotlin, Python, Flutter, Shell, Bash, Appium, Firebase, C#, Hugo
+  🧪 <strong>Tech Stack:</strong> Java, Kotlin, Python, Flutter, Shell, Bash, Appium, Firebase, C#, Ducky Script, Hugo
 </p>
 
 ---
@@ -35,22 +35,27 @@
 | 🐧 macOS/Linux   | <img src="https://github.com/anonfaded/wifade/blob/f0cca7437c063269fe71fdc593a7a75bca656262/img/logo.png" width="50"><br>**WiFade**                           | Bash-based script for brute-forcing saved Wi-Fi passwords with automation and retry logic.                                          | Shell   | [GitHub](https://github.com/anonfaded/wifade) <br> ![Downloads](https://img.shields.io/github/downloads/anonfaded/wifade/total?label=Downloads\&logo=github)                                                        |
 | 📦 Library       | <img src="https://github.com/arthenica/ffmpeg-kit/blob/main/docs/assets/ffmpeg-kit-icon-v9.png" width="50"><br>**FFmpeg Kit (Mod)**                           | Full-GPL variant of FFmpeg-Kit modified with reproducible builds for F-Droid. Includes Flutter & Java bindings and AAR build guide. | Mixed   | [GitHub](https://github.com/anonfaded/ffmpeg-kit) <br> ![Downloads](https://img.shields.io/github/downloads/anonfaded/ffmpeg-kit/total?label=Downloads\&logo=github)                                                |
 | 💻 Windows/Linux | <img src="https://github.com/anonfaded/FadADB/raw/main/assets/img/FadADB-png.png" width="50"><br>**FadADB**                                                   | GUI and CLI-based ADB manager for USB & wireless debugging, file transfers, and automation.                                         | Python  | [GitHub](https://github.com/anonfaded/FadADB) <br> ![Downloads](https://img.shields.io/github/downloads/anonfaded/FadADB/total?label=Downloads\&logo=github)                                                        |
+| 🕸️ Web          | <img src="https://github.com/user-attachments/assets/b03fa601-9e53-4247-bad1-de5807a5fa31" width="50"><br>**CyberSec Blog Website Template** | A cybersecurity-themed Hugo website template. Built for easy setup in under 5 mins with detailed configuration docs.               | Hugo              | [GitHub](https://github.com/anonfaded/hugo-winston-cyber)                |
+| 💻 Windows/Linux         | <img src="https://github.com/anonfaded/robospeaker101/raw/main/img/3.png" width="40"> <br>**RoboSpeaker 101**                            | TTS app with voice options, speech logs, and save-as-audio feature for all platforms. | Python | [GitHub](https://github.com/anonfaded/robospeaker101) <br> ![Downloads](https://img.shields.io/github/downloads/anonfaded/robospeaker101/total?label=Downloads\&logo=github) |
+| 💻 Windows/Linux          | <img src="https://github.com/anonfaded/payloads/blob/57ae59519c5e9fbc51da24218e644ba69f3b9e61/img/logo.png" width="40"> <br>**Payloads** | HID payloads for Raspberry Pi Pico Ducky clones.                                      | Ducky Script   | [GitHub](https://github.com/anonfaded/payloads)                                                                                                                              |
+| 💻 Windows/Linux          | <img src="https://github.com/anonfaded/fade-it/raw/main/s.png" width="40"> <br>**Fade-It**                                               | CLI-based text converter to bypass censorship with special characters.                | Python | [GitHub](https://github.com/anonfaded/fade-it)                                                                                                                               |
+
+
 
 ---
 
-## 🧪 Upcoming Projects & Paid Tools
+## 🧪 Upcoming Free Projects & Paid Tools
 
-> *The following are either paid, private, or still in development.*
+> *The following apps fall into one of three categories: mostly `free`, `paid`, or `in development` (coming soon).*
 
 | Platform         | App                                                                                                                                                               | Description                                                                                                                        | Tech              | Status             |
 | ---------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- | ----------------- | ------------------ |
 | 💻 Windows/Linux | <img src="https://github.com/anonfaded/FadTwiX/blob/5b61987f3f455c6acab73bba8d19ed4d6b93155c/fadtwix_resources/images/fadtwix.png" width="50"><br>**FadTwiX**     | Post up to 5,000 tweets/day with text+image, bulk delete support. Automates "X" via Android device using Appium – no API required. | Appium            | Paid / Coming Soon |
 | 🤖 Android       | 🤖<br>**FaditorX**                                                                                                                                                | Free, open-source Android video editor under development.                                                                          | Flutter           | Coming Soon        |
-| 🕸️ Web          | <img src="https://private-user-images.githubusercontent.com/124708903/428189409-040283e9-41bd-47a6-9d29-59947efbcfdd.png" width="50"><br>**CyberHugo**            | A cybersecurity-themed Hugo website template. Built for easy setup in under 5 mins with detailed configuration docs.               | Hugo              | Free               |
-| 🤖 Android       | 🤖<br>**FadStore**                                                                                                                                                | A modern app store to host all FadSec Lab apps. Features authentication via Firebase.                                              | Kotlin + Firebase | Coming Soon        |
+| 🤖 Android       | <img src="https://github.com/anonfaded/FadStore-app/blob/ec0d76caf6b916e3383efbd26096193cda67a94a/assets/logo.png" width="50"><br>**FadStore**                                                                                                                                                | A modern app store to host all FadSec Lab apps. Features authentication via Firebase.                                              | Kotlin + Firebase | Coming Soon        |
 | 🤖 Android       | 🤖<br>**BloodDonor+** *(final name TBD)*                                                                                                                          | Donation tracking app for blood organizations. Includes donor records, scheduling, and automated WhatsApp reports.                 | Kotlin + Firebase | Paid / Coming Soon |
-| 💻 Windows/Linux | <img src="https://private-user-images.githubusercontent.com/124708903/400147171-4f839e8d-c9b1-4e5d-8ef3-60ad574c8a7b.png" width="50"><br>**ID Lookup Bot**        | Excel-to-automation tool that fetches SIM card owner info & optionally their Facebook profile via Android automation.              | Appium + Python   | Private / Paid     |
-| 🤖 Android       | <img src="https://private-user-images.githubusercontent.com/124708903/455465777-663be097-b881-47b1-a5af-45baf4bd1ba0.png" width="50"><br>**FadVeil**              | Privacy-focused screen dimmer that conceals parts of your display to prevent visual distractions or for discretion.                | Kotlin            | Free / Coming Soon |
+| 💻 Windows/Linux | <img src="https://github.com/anonfaded/IDLookUpBot-eyecon/blob/017488931df5753cda4e0d03ad5c532e89277dc4/assets/ss1.png" width="50"><br>**ID Lookup Bot**        | Excel-to-automation tool that fetches SIM card owner info & optionally their Facebook profile via Android automation.              | Appium + Python   | Private / Paid     |
+| 🤖 Android       | <img src="https://github.com/anonfaded/FadVeil/blob/670e2f2577a91e5c4b5b83bd134e94993b2b2076/assets/FadVeil-png.png" width="50"><br>**FadVeil**              | Privacy-focused screen dimmer that conceals parts of your display to prevent visual distractions or for discretion.                | Kotlin            | Free / Coming Soon |
 | 💻 Windows/Linux | 💻<br>**FadSay**                                                                                                                                                  | TTS app with real-time on-screen captions. Speech-to-text (STT) AI features planned.                                               | Python            | Coming Soon        |
 | 💻 Windows/Linux | <img src="https://github.com/anonfaded/FadCam/blob/6c4adb362a7382f5e89c2accde3491cf1bb8c9be/app/src/main/ic_launcher_bat-playstore.png" width="50"><br>**FadBat** | Desktop surveillance tool: key monitoring, screenshots, tab tracking, and email alerts. Ideal for parents or personal security.    | Python            | Free / Coming Soon |
 
@@ -60,20 +65,15 @@
 
 These projects are experimental, early-stage, or niche utilities. Though less polished, they’re free and open-source.
 
-![Downloads](https://img.shields.io/github/downloads/anonfaded?label=Total%20Downloads\&logo=github)
-
 <details>
 <summary>Click to view</summary>
 
 | App                                                                                                                                  | Description                                                                           | Tech   | Links                                                                                                                                                                        |
 | ------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------- | ------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img src="https://github.com/anonfaded/robospeaker101/raw/main/img/3.png" width="40"> **RoboSpeaker 101**                            | TTS app with voice options, speech logs, and save-as-audio feature for all platforms. | Python | [GitHub](https://github.com/anonfaded/robospeaker101) <br> ![Downloads](https://img.shields.io/github/downloads/anonfaded/robospeaker101/total?label=Downloads\&logo=github) |
-| <img src="https://github.com/anonfaded/payloads/blob/57ae59519c5e9fbc51da24218e644ba69f3b9e61/img/logo.png" width="40"> **Payloads** | HID payloads for Raspberry Pi Pico Ducky clones.                                      | Bash   | [GitHub](https://github.com/anonfaded/payloads)                                                                                                                              |
 | <img src="https://github.com/anonfaded/pdf-merger/blob/main/img/1.png" width="40"> **PDF Merger**                                    | Merge PDF files via CLI or GUI. Supports drag-and-drop.                               | Python | [GitHub](https://github.com/anonfaded/pdf-merger) <br> ![Downloads](https://img.shields.io/github/downloads/anonfaded/pdf-merger/total?label=Downloads\&logo=github)         |
 | <img src="https://github.com/anonfaded/image-resizer/raw/main/img/1.png" width="40"> **Image Resizer**                               | Simple image resizing tool with GUI and CLI modes.                                    | Python | [GitHub](https://github.com/anonfaded/image-resizer) <br> ![Downloads](https://img.shields.io/github/downloads/anonfaded/image-resizer/total?label=Downloads\&logo=github)   |
 | <img src="https://github.com/anonfaded/weatherCLI/raw/main/img/2.png" width="40"> **weatherCLI**                                     | Minimal weather checking app via command-line.                                        | Python | [GitHub](https://github.com/anonfaded/weatherCLI) <br> ![Downloads](https://img.shields.io/github/downloads/anonfaded/weathercli/total?label=Downloads\&logo=github)         |
 | <img src="https://github.com/anonfaded/windows101/raw/main/img/ss.png" width="40"> **Windows101**                                    | First experimental app built using C# for Windows.                                    | C#     | [GitHub](https://github.com/anonfaded/windows101) <br> ![Downloads](https://img.shields.io/github/downloads/anonfaded/windows101/total?label=Downloads\&logo=github)         |
-| <img src="https://github.com/anonfaded/fade-it/raw/main/s.png" width="40"> **Fade-It**                                               | CLI-based text converter to bypass censorship with special characters.                | Python | [GitHub](https://github.com/anonfaded/fade-it)                                                                                                                               |
 
 </details>
 
@@ -83,7 +83,7 @@ These projects are experimental, early-stage, or niche utilities. Though less po
 
 | Project                                                                                                         | Description                                                                                                   | Link                                                     |
 | --------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- |
-| <img src="https://raw.githubusercontent.com/alganzory/HaramBlur/main/images/icon.png" width="40"> **HaramBlur** | Browser extension to blur and reduce exposure to inappropriate content online. Added Arabic language support. | [PR #56](https://github.com/alganzory/HaramBlur/pull/56) |
+| <img src="https://github.com/anonfaded/HaramBlur/blob/f50eca38393d3a0a0731db2c6a5085250788b235/src/assets/hb-icon-128.png" width="40"> **HaramBlur** | Browser extension to blur and reduce exposure to inappropriate content online. Added Arabic language support. | [PR #56](https://github.com/alganzory/HaramBlur/pull/56) |
 
 ---
 
