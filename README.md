@@ -16,11 +16,13 @@
 
 </div>
 
-<p>
-  📦 <strong>Total Projects:</strong> 30+<br>
-  💻 <strong>Platforms:</strong> Android, Windows, Linux, macOS, Web<br>
-  🧪 <strong>Tech Stack:</strong> Java, Kotlin, Python, Flutter, Shell, Bash, Appium, Firebase, C#, Ducky Script, Hugo
-</p>
+> [!NOTE]
+> 📦 **Total Projects:** 30+  
+> 🌍 **User Base:** 70,000+ users across 22+ countries  
+> 💻 **Platforms:** Android, Windows, Linux, macOS, Web  
+> 🧪 **Tech Stack:** Java, Kotlin, Python, Flutter, Shell, Bash, Appium, Firebase, C#, Ducky Script, Hugo, HTML/CSS/JavaScript
+
+
 
 ---
 
