@@ -48,7 +48,7 @@
 
 ## 🧪 Upcoming Free Projects & Paid Tools
 
-> *The following apps fall into one of three categories: mostly `free`, `paid`, or `in development` (coming soon).*
+> *The following apps are either `free` or `paid`, and all are currently `in development` (coming soon).*
 
 | Platform         | App                                                                                                                                                               | Description                                                                                                                        | Tech              | Status             |
 | ---------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- | ----------------- | ------------------ |
