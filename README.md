@@ -18,9 +18,11 @@
 
 > [!NOTE]
 > 📦 **Total Projects:** 22+  
+> 🤖 **Android Apps:** 7  💻 **Desktop Apps:** 11  
 > 🌍 **User Base:** 70,000+ users across 22+ countries  
 > 💻 **Platforms:** Android, Windows, Linux, macOS, Web  
 > 🧪 **Tech Stack:** Java, Kotlin, Python, Flutter, Shell, Bash, Appium, Firebase, C#, Ducky Script, Hugo, HTML/CSS/JavaScript
+
 
 
 
