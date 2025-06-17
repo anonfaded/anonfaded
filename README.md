@@ -103,7 +103,6 @@ If you want to reach out, check the [Contact](https://github.com/anonfaded/#-con
 
 
 
----
 <br>
 
 ## Stats
