@@ -10,18 +10,20 @@
 
 
 
+
 <div align=center>
   
-## `>_` Projects I’ve Developed @ <a href="https://github.com/fadsec-lab" ><img src="https://github.com/anonfaded/FadCam/blob/6c4adb362a7382f5e89c2accde3491cf1bb8c9be/app/src/main/res/drawable/fadseclab.png" width="120" alt="FadSec Lab logo"></a>
-
+<!-- Legacy fadseclab logo: ## `>_` Projects I’ve Developed @ <a href="https://github.com/fadsec-lab" ><img src="https://github.com/anonfaded/FadCam/blob/6c4adb362a7382f5e89c2accde3491cf1bb8c9be/app/src/main/res/drawable/fadseclab.png" width="120" alt="FadSec Lab logo"></a> -->
+  
+## `>_` Projects I’ve Developed @ <a href="https://github.com/fadsec-lab" ><img src="https://github.com/user-attachments/assets/663fb257-6315-453d-8c4e-65cc38e597fe" width="150" alt="FadSec Lab logo"></a>
 </div>
 
 > [!NOTE]
 > 📦 **Total Projects:** 22+  
 > 🤖 **Android Apps:** 7  💻 **Desktop Apps:** 11  
-> 🌍 **User Base:** 70,000+ users across 51+ countries  
+> 🌍 **User Base:** 80,000+ users across 51+ countries  
 > 💻 **Platforms:** Android, Windows, Linux, macOS, Web  
-> 🧪 **Tech Stack:** Java, Kotlin, Python, Flutter, Shell, Bash, Appium, Firebase, C#, Ducky Script, Hugo, HTML/CSS/JavaScript
+> 🧪 **Tech Stack:** Java, Kotlin, Python, Flutter, Shell, Bash, Appium, Firebase, C#, Ducky Script, Hugo, HTML/CSS/JavaScript, TypeScript
 
 
 
