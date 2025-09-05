@@ -45,7 +45,7 @@
 | 💻 Windows/Linux         | <img src="https://github.com/anonfaded/robospeaker101/raw/main/img/3.png" width="40"> <br>**RoboSpeaker 101**                            | TTS app with voice options, speech logs, and save-as-audio feature. | Python | [GitHub](https://github.com/anonfaded/robospeaker101) <br> ![Downloads](https://img.shields.io/github/downloads/anonfaded/robospeaker101/total?label=Downloads\&logo=github) |
 | 💻 Windows/Linux          | <img src="https://github.com/anonfaded/payloads/blob/57ae59519c5e9fbc51da24218e644ba69f3b9e61/img/logo.png" width="40"> <br>**Payloads** | HID payloads for Raspberry Pi Pico.                                      | Ducky Script   | [GitHub](https://github.com/anonfaded/payloads)                                                                                                                              |
 | 💻 Windows/Linux          | <img src="https://github.com/anonfaded/fade-it/raw/main/s.png" width="40"> <br>**Fade-It**                                               | CLI-based text-to-special-characters converter to bypass censorship.                | Python | [GitHub](https://github.com/anonfaded/fade-it)                                                                                                                               |
-
+| 💻 WindowsLinux/macOS | <img src="https://github.com/anonfaded/NotepadDecoder/raw/main/img/banner.png" width="40"><br> **NotepadDecoder** | Recover and decode unsaved Windows Notepad Binary files into readable notes. | Python | [🌐 Website](https://blog.faded.dev/posts/notepad_decoder) <br> [GitHub](https://github.com/anonfaded/NotepadDecoder) | 
 
 
 ---
