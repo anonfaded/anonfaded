@@ -8,7 +8,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=anonfaded)
 
 
-
+[![An image of @anonfaded's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anonfaded)](https://holopin.io/@anonfaded)
 
 
 <div align=center>
