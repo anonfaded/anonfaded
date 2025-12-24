@@ -1,7 +1,7 @@
 # <p> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ...✨</p> 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=43&duration=1000&pause=1500&color=F7103D&random=false&width=900&height=150&lines=Faded+Here!;Android%2FFlutter+Developer+%F0%9F%A5%B7;CTF+Player...;Coding+for+creativity%2C+hacking+for+security+%F0%9F%9B%A1%EF%B8%8F;%F0%9F%93%8DSomewhere+between+0's+and+1's.)](https://git.io/typing-svg)
 
-- Android/Flutter Developer
+- Native Android & Flutter Developer
 - 2nd in Pakistan, 90th globally – HackTheBox Cyber Apocalypse 2025 CTF
 - Top 6% – HackTheBox Cyber Apocalypse 2024 CTF
 - TryHackMe top 14%
