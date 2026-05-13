@@ -6,8 +6,14 @@
 - Top 6% – HackTheBox Cyber Apocalypse 2024 CTF
 - TryHackMe top 14%
 
+<div align=center>
+
+<a href="https://trendshift.io/developers/11500" target="_blank"><img src="https://trendshift.io/api/badge/developers/11500" alt="anonfaded | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
+
 [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/red?icon=github)](https://github.com/anonfaded/#-contact)
 ![Profile Views](https://komarev.com/ghpvc/?username=anonfaded)
+
+</div>
 
 
 [![An image of @anonfaded's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anonfaded)](https://holopin.io/@anonfaded)
