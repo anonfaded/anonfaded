@@ -61,6 +61,7 @@
 
 ---
 
+<!-- 
 ## 🧪 Upcoming Free Projects & Paid Tools
 
 > *The following apps are either `free` or `paid`, and all are currently `in development` (coming soon).*
@@ -77,6 +78,10 @@
 | 💻 Windows/Linux | <img src="https://github.com/anonfaded/FadCam/blob/6c4adb362a7382f5e89c2accde3491cf1bb8c9be/app/src/main/ic_launcher_bat-playstore.png" width="50"><br>**FadBat** | Monitors keystrokes, captures periodic screenshots, tracks browser activity and application usage, and sends real-time alerts via email. Ideal for parental supervision or personal system security   | Python            | Free / Coming Soon |
 
 ---
+
+-->
+
+
 
 ## 🧰 Additional Tools & Early Utilities
 
